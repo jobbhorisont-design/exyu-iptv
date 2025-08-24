@@ -1,0 +1,26 @@
+#EXTM3U
+## Regularni kanali — Bosna / Hrvatska / Srbija
+#EXTINF:-1 group-title="Bosna", BHT 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/29769
+#EXTINF:-1 group-title="Bosna", BN TV
+http://portal.alliptv.tv:8080/530354021348/397532457292/29767
+#EXTINF:-1 group-title="Hrvatska", HRT 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/29717
+#EXTINF:-1 group-title="Srbija", RTS 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/29621
+
+## Filmski kanali
+#EXTINF:-1 group-title="Film", Cinemax 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/29764
+#EXTINF:-1 group-title="Film", Cinemax 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/29763
+#EXTINF:-1 group-title="Film", CineStar Action TV
+http://portal.alliptv.tv:8080/530354021348/397532457292/29762
+#EXTINF:-1 group-title="Film", CineStar TV
+http://portal.alliptv.tv:8080/530354021348/397532457292/29761
+
+## Sportski kanali
+#EXTINF:-1 group-title="Sport", Arena Sport 4 BiH
+http://portal.alliptv.tv:8080/530354021348/397532457292/29779
+#EXTINF:-1 group-title="Sport", Arena Sport 5
+http://portal.alliptv.tv:8080/530354021348/397532457292/29776
